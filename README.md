@@ -11,11 +11,24 @@ Advanced techniques for efficient use of computers to perform statistical comput
 * GitHub
 * Base R and the Tidyverse
 
-### Week 2: Graphics
+### Week 2: Graphics (/Output?)
+
+* ggplot2
+* gganimate?
+* leaflet
+* geosphere
+* circlize
+* DT
+* kable
 
 ### Week 3: Data Types
 
 ### Week 4: Data Sources
+
+* File types? (CSV, TSV, XML, JSON, TXT...)
+* rvest?
+* APIs
+* Databases
 
 ### Week 5: Wrap-Up and Midterm Exam
 

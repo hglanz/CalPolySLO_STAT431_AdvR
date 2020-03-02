@@ -1,6 +1,6 @@
 ---
-title: "Stat 331/531: Statistical Computing with R"
-author: "Professor Kelly Bodwin"
+title: "STAT 431: Advanced Statistical Computing with R"
+author: "Professors Kelly Bodwin and Hunter Glanz"
 output: rmdformats::readthedown
 ---
 ## Contact
@@ -11,25 +11,29 @@ output: rmdformats::readthedown
 
 **Email:** kelly.bodwin+stat331@gmail.com
 
+#### Professor Hunter Glanz
+
+**Office:** 25-111
+
+**Email:** hglanz@calpoly.edu
+
 
 ### Course Forum:
 
-For questions of general interest, such as course clarifications or conceptual questions, please use [the class discussion forum](https://canvas.calpoly.edu/courses/9322/discussion_topics).  I encourage you to give your post an informative title, so that other people can find it.  For example, *"How do I color bars in a barplot with ggplot?"* is a better discussion title than *"help with plotting"*.
+For questions of general interest, such as course clarifications or conceptual questions, please use [the class discussion forum]().  I encourage you to give your post an informative title, so that other people can find it.  For example, *"How do I color bars in a barplot with ggplot?"* is a better discussion title than *"help with plotting"*.
 
 While your posts are not anonymous, in this case there is no such thing as a bad question!
 
 
 ### Drop-in Office Hours:
 
-#### Tuesday 12:10-2pm
-#### Thursday, 10:10-11am
+#### TBD
 
 I will always be in my office during these times - please feel welcome to come by unannounced, for any reason at all!
 
 ### Small Group Office Hours:
 
-#### Thursday, 12:10-2:00pm
-#### (and sometimes other bonus times!)
+#### TBD
 
 These office hours are are organized in 15-minute segments, limited to 4 people in each.  This is to make sure that you are able to get your questions answered, even during busy periods when drop-in hours might be very full.
 
@@ -44,11 +48,7 @@ Please treat these as open office hours - I will always be available at these ti
 
 **Times:**
 
-Section 70: MW 12:10pm-2:00pm
-
-Section 71: MW 2:10am-4:00pm
-
-Section 72: MW 4:10am-6:00pm
+Section 01: MW 2:10pm-4:00pm
 
 ### Learning Objectives:
 
@@ -56,11 +56,14 @@ This course will teach you the basics of R Statistical Software and of statistic
 
 After taking this course, you will be able to:
 
-* Import, manage, and clean data from a wide variety of data sources.
-* Visualize and summarize data for informative exploratory data analysis and presentations.
-* Write efficient and well-documented R code.
-* Program random experiments and simulations from probability models
-* Extend your R skills independently through documentation and online resources.
+* Write and manage computer code using version control systems
+* Perform reproducible statistical analyses
+* Execute advanced functional programming techniques
+* Implement advanced data preparation techniques, including combining complex data
+* Perform inferential statistical methods using R
+* Construct data visualizations (static and dynamic) and tables in order to enhance the presentation of data or statistical results
+* Extract data from and output data to external sources
+* Construct an R package
 
 Additionally, it is my hope that you will learn to:
 
@@ -85,41 +88,27 @@ Chromebooks will **not** be sufficient to use **R**.
 
 Your grade will consist of the following:
 
-- 5% Flex Points
-- 10% Practice Activities
-- 15% Homework Assignments
-- 15% Project I
-- 15% Midterm
-- 15% Project II
-- 25% Final Exam
+- TBD
 
 ## Course Organization
 
-This class is organized into three distinct units.
+This class is organized into two distinct units.
 
-### Unit 1:  R for Data Science
+### Unit 1:  Advanced R for Reproducbile Data Science
 
 The first unit will focus on the R language itself.  You will become accustomed to the structure of programming in R, and learn to perform and present basic exploratory data analyses.  
 
 This unit will fairly closely follow Part I of [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham.
 
-Unit 1 culminates in **Project I**, a group data exploration project.
+Unit 1 culminates in the **Midterm Exam**.
 
-### Unit 2: Becoming an R Programmer
+### Unit 2: Advanced Computational Statistics Methods
 
 The second unit will grow your ability to extend your R skills beyond the basics.  You will learn to work with unusual data types, to write your own functions, to program more efficiently and cleanly, and to teach yourself new packages.
 
 This unit will borrow from Parts II and I of [R for Data Science](https://r4ds.had.co.nz/), bits and pieces of [Advanced R](https://adv-r.hadley.nz/), and various other online resources.
 
-Unit 2 culminates in a **Midterm Exam**, which will be in-class and open-note.
-
-### Unit 3: Statistical Computing
-
-The final unit of the course will ask you to use your R abilities to implement various statistical computing tasks, such as simulation, bootstrapping, and Monte Carlo.  
-
-Unit 3 culminates in a **Final Exam**, which is non-cumulative, and **Project II**, a group project on learning new packages.
-
-
+Unit 2 culminates in the **Course Project**.
 
 ## Flex Points
 
@@ -155,15 +144,11 @@ Labs turned in later than Sunday will not be reviewed, and instead will be quick
 
 ### Dates
 
-**Midterm:** Wednesday, Febrary 19th
+**Midterm:** Wednesday, April 29th
 
 **Final Exam:**
 
-* Section 70: Monday, March 16 10:10am – 1:00pm
-
-* Section 71: Friday, March 20 1:10pm – 4:00pm
-
-* Section 72: Wednesday, March 18 4:10pm – 7:00pm
+* Section 01: Monday, June 8, 2020 from 1:10pm-4:00pm
 
 
 ## Other Policies
