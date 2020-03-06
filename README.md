@@ -21,24 +21,28 @@ Advanced techniques for efficient use of computers to perform statistical comput
 * DT
 * kable
 
-### Week 3: Data Types
-
-### Week 4: Data Sources
+### Week 3: Data Sources
 
 * File types? (CSV, TSV, XML, JSON, TXT...)
 * rvest?
 * APIs
 * Databases
 
+### Week 4: Package-based wkflow
+
+* Function Writing
+* Document/Package (roxygen)
+* (in context of OLS)
+
+
 ### Week 5: Wrap-Up and Midterm Exam
 
 ## Unit 2
 
-### Weeks 6 & 7: Ordinary Least Squares & Multiple Regression
+### Weeks 6 & 7: Multiple Regression
 
 * Matrix Algebra
-* Function Writing
-* Document/Package (roxygen)
+
 
 ### Weeks 7 & 8:  Gradient Descent
 
